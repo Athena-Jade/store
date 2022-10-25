@@ -1,0 +1,23 @@
+
+
+.navbar .navbar-brand{
+    font-size: 1.85rem;
+    color: red;
+    margin-left: 1rem;
+   
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    font-size: 1.5rem;
+    color: rgb(30, 28, 28);
+}
+
+.navbar-nav{
+    margin: 5rem;
+    color: black;
+}
+
+
+.navbar-nav .nav-item a:hover{
+    color: red;
+}
